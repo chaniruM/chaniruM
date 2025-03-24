@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm [Chaniru Mannapperuma]!
+
+🔹 Software Engineer | Full-Stack Developer  
+🔹 Passionate about Cyber Security, Machine Learning, and Flutter apps  
+🔹 Building [DriveWise](https://drivewise.com) 🚗  
+
+## 🌟 Tech Stack
+- 🔹 **Languages:** Java, Dart, Python, JavaScript, TypeScript 
+- 🔹 **Frameworks:** Flutter, Angular, NestJS, Spring Boot  
+- 🔹 **Tools:** Git, Docker, Firebase  
+
+📫 **Contact Me:** [LinkedIn](https://linkedin.com/in/chaniruM) | [Email](mailto:chanirumannapperuma18@gmail.com)
+
 
 <!--
 **chaniruM/chaniruM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
