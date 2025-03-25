@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Chaniru Mannapperuma]!
+# Hi there 👋, I'm Chaniru Mannapperuma!
 
 🔹 Software Engineer | Full-Stack Developer  
 🔹 Passionate about Cyber Security, Machine Learning, and Flutter apps  
