@@ -7,7 +7,7 @@
 ## 🌟 Tech Stack
 - 🔹 **Languages:** Java, Dart, Python, JavaScript, TypeScript 
 - 🔹 **Frameworks:** Flutter, Angular, NestJS, Spring Boot  
-- 🔹 **Tools:** Git, Docker, Firebase  
+- 🔹 **Tools:** Git, Firebase  
 
 📫 **Contact Me:** [LinkedIn](https://linkedin.com/in/chaniruM) | [Email](mailto:chanirumannapperuma18@gmail.com)
 
