@@ -16,7 +16,7 @@ I am a London-based **Software Engineer** (First-Class Honours graduate) with a 
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/chanirum](https://www.linkedin.com/in/chanirum)
-- **Email:** [Email](mailto:chaniru418@gmail.com)
+- **Email:** [chaniru418@gmail.com](mailto:chaniru418@gmail.com)
 
 <!--
 **chaniruM/chaniruM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
