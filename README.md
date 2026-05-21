@@ -1,16 +1,22 @@
-# Hi there 👋, I'm Chaniru Mannapperuma!
+# Hi there, I'm Chaniru Mannapperuma 👋
 
-🔹 Software Engineer | Full-Stack Developer  
-🔹 Passionate about Cyber Security, Machine Learning, and Flutter apps  
-🔹 Building [DriveWise](https://drivewise.com) 🚗  
+I am a London-based **Software Engineer** (First-Class Honours graduate) with a year of commercial experience building real-time mobile and full-stack applications. I am passionate about bridging the gap between complex architectures (IoT, Edge-AI) and intuitive user experiences.
 
-## 🌟 Tech Stack
-- 🔹 **Languages:** Java, Dart, Python, JavaScript, TypeScript 
-- 🔹 **Frameworks:** Flutter, Angular, NestJS, Spring Boot  
-- 🔹 **Tools:** Git, Firebase  
+### 🚀 What I'm Up To
+- 🎓 Recently completed my BEng Software Engineering at the **University of Westminster**.
+- 🚗 Just shipped **DriveSafe**, a Proof-of-Concept Edge-AI Driver Monitoring System using Flutter, Apple ARKit, and Google ML Kit.
+- 💼 Currently seeking **Graduate / Junior Software Engineering** roles in the UK.
 
-📫 **Contact Me:** [LinkedIn](https://linkedin.com/in/chaniruM) | [Email](mailto:chanirumannapperuma18@gmail.com)
+### 🛠️ Tech Stack
+- **Mobile:** Flutter, Dart, Swift (Native MethodChannels), GetX
+- **Agentic AI:** Python
+- **Web & Backend:** Next.js, React, Node.js, Python, Spring Boot
+- **Databases & Cloud:** Firebase, MongoDB, MySQL, SQLite, Postgresql
+- **Architecture & IoT:** MQTT, REST APIs, OpenAI API, Apple ARKit, Google ML Kit, Edge-AI
 
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/chanirum](https://www.linkedin.com/in/chanirum)
+- **Email:** [Email](mailto:chaniru418@gmail.com)
 
 <!--
 **chaniruM/chaniruM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
